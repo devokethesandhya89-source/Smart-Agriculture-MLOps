@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Smart Agriculture MLOps
 
 An AI-powered agriculture application with a FastAPI backend, React frontend, and machine-learning models for crop, fertilizer, irrigation, price, and yield predictions.
@@ -117,3 +118,6 @@ Run training again whenever the source datasets or preprocessing logic changes.
 - Keep API keys in environment files, never in source code.
 - Do not commit `backend\.env`.
 - The backend proxies OpenWeatherMap requests so the key is not sent to browsers.
+=======
+# Smart-Agriculture-MLOps
+>>>>>>> 814da9ed3ddb4512e4ac9c7ac294eb9a98e16e24
