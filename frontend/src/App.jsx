@@ -344,7 +344,7 @@ function App() {
             <button onClick={() => showNotice("A farm guide will be in touch soon")}>Talk to an expert <Icon name="arrow" size={14} /></button>
           </div>
           <div className="profile">
-            <div className="avatar">AM</div><div><strong>Alex Morgan</strong><small>Sunrise Valley Farm</small></div><span className="profile-more">•••</span>
+            <div className="avatar">AM</div><div><strong>Devokethe Sandhya</strong><small>Sunrise Valley Farm</small></div><span className="profile-more">•••</span>
           </div>
         </div>
       </aside>
